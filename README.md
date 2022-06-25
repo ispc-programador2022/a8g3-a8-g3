@@ -1,34 +1,33 @@
 # a8g3-a8-g3
+
 a8g3-a8-g3 created by GitHub Classroom
 
 Integrantes :
 
-Santiago Gabriel	Mari	
+Santiago Gabriel Mari
 
-lucas matias	lopez	
+lucas matias lopez
 
-Leonardo	Mansilla
+Leonardo Mansilla
 
-Emmanuel	Martin
+Emmanuel Martin
 
-Adelmar Valentina 
+Adelmar Valentina
 
-Celia	Marital 	 
+Celia Marital
 
-Iván	Martinatto
+Iván Martinatto
 
-Martin	Mancilla	
+Martin Mancilla
 
-Florencia 	Marcat
+Florencia Marcat
 
-Alexis 	Martinez
+Alexis Martinez
 
-Katerine	Lopez	
+Katerine Lopez
 
-Verónica	Maestri	
+Verónica Maestri
 
-Alexis	Mancilla	
+Alexis Mancilla
 
-Neyen	Lucchelli
-
-Artemio	Lucero	
+Artemio Lucero
