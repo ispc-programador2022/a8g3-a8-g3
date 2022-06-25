@@ -13,9 +13,6 @@ Emmanuel	Martin
 
 Adelmar Valentina 
 
-Celia	Marital 	 
-
-Iván	Martinatto
 
 Martin	Mancilla	
 
@@ -28,7 +25,5 @@ Katerine	Lopez
 Verónica	Maestri	
 
 Alexis	Mancilla	
-
-Neyen	Lucchelli
 
 Artemio	Lucero	
